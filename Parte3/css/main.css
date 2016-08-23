@@ -1,0 +1,20 @@
+/* Pon tu código css aqui */
+
+.box {
+	height:100px;
+	width:25%;	
+	float: right;
+}
+
+/* colores DIV */
+.uno { background-color: #00FFFF; }
+.dos { background-color: #7FFF00;}
+.tres { background-color: #FF8C00;}
+
+
+/* CONTENEDOR*/
+.contenedor {
+	border:1px solid;
+	
+}
+
